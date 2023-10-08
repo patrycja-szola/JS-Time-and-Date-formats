@@ -1,0 +1,19 @@
+body {
+  background-color: darkblue;
+}
+
+p{
+    font-size: 24px;
+    font-weight: 600;
+    padding: 5px;
+    margin: 1px;
+}
+.date-format{
+    display: block;
+    text-align: center;
+    color: black;
+    background-color: aqua;
+    border-radius: 5px;
+    margin: 10px;
+    padding: 5px;
+  }
